@@ -35,19 +35,20 @@
 <br />
 
 <!-- Stats Section -->
-<h3 align="center">📊 GitHub Stats</h3>
+<!-- Trophies -->
 <div align="center">
-  <a href="https://github.com/sahishnu111">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahishnu111&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" />
-  </a>
-  <a href="https://github.com/sahishnu111">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahishnu111&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sahishnu111&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" />
   </a>
 </div>
 
-<br />
+<br/>
+
+<!-- Stats Section -->
+<h3 align="center">📊 Analysis</h3>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahishnu111&theme=tokyonight&hide_border=true&background=0D1117" alt="sahishnu111" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sahishnu111&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahishnu111&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000" height="150" alt="languages graph" />
 </div>
 
 <br />
