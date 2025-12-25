@@ -12,8 +12,7 @@
 <!-- About Me Section -->
 <div align="center">
   <p>
-    I am a passionate developer focused on <strong>Algorithms</strong>, <strong>System Design</strong>, and <strong>Web Development</strong>. 
-    I love solving complex problems with <b>C++</b> and building interactive apps with the modern web stack.
+    I love to learn new things and solve problems.
     <br/>
     Currently leveling up my skills for <strong>HFT</strong> and <strong>FAANG</strong> roles.
   </p>
